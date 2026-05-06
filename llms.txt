@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 25, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/nefsy-a3eesh-ma3ak-kol-yom-i-wish-to-live-with-you-every-day/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Official Usage Rights for Nefsy A3eesh Ma3ak Kol Yom – I Wish to Live with You Every Day](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
