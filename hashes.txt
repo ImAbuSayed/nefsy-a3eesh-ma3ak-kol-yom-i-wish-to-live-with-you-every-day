@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Nefsy A3eesh Ma3ak Kol Yom – I Wish to Live with You Every Day
+
+This log tracks the cryptographic history and versioning for the song **Nefsy A3eesh Ma3ak Kol Yom – I Wish to Live with You Every Day** (nefsy-a3eesh-ma3ak-kol-yom-i-wish-to-live-with-you-every-day).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T08:59:36.901715 | `v1` | `f1728172523b647058156bdfd044183c98d0300cc65a230c62c8fe36898d41e4` | `75ecdc0b40db71abf2f4cd066002a0ada66942ae39342b5566e8a25a78c78765` | `2026-05-09_nefsy-a3eesh-ma3ak-kol-yom-i-wish-to-live-with-you-every-day-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
